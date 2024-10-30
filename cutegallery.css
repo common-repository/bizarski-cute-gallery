@@ -1,0 +1,19 @@
+.cutegallery_container { 
+	float: left; 
+	padding: 0;
+}
+
+.cutegallery_container.last { 
+	margin-right: 0 !important;
+}
+
+.cutegallery_container img { 
+	float: left; 
+}
+
+.cutegallery_title { 
+	color: #f69722; 
+	font-size: medium;
+	font-weight: bold;
+}
+

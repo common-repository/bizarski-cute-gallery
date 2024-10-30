@@ -1,0 +1,1 @@
+<?php if (!function_exists('add_action')){	require_once("../../../wp-config.php");}?>jQuery(document).ready(function () {		if(jQuery(".datepicker").length > 0) { 		jQuery(".datepicker").datepicker({			dateFormat:"yy-mm-dd"		});	}	});

@@ -1,0 +1,1 @@
+<?php if (!function_exists('add_action')){	require_once("../../../wp-config.php");}?>jQuery(document).ready(function () {		if(jQuery(".cutegallery-fancybox").length > 0) { 		jQuery(".cutegallery-fancybox").fancybox({ 			titlePosition 	: 'over',  			titleShow		: true, 			overlayColor 	: '#000'		});	}	});

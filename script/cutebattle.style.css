@@ -1,0 +1,162 @@
+.cutebattle_header { 
+	position: relative; 
+	overflow: hidden;
+	text-align: center;
+	background: blue;
+}
+
+.cutebattle_left {
+	position: absolute;
+	left: 0;
+}
+
+.cutebattle_right { 
+	position: absolute;
+	right: 0;
+}
+
+.cutebattle_names { 
+	position: relative; 
+	height: 40px;
+	background: grey;
+}
+
+.cutebattle_names h2 { 
+	padding: 5px;
+	margin: 0;
+}
+
+#cutebattle_ad { 
+	margin-bottom: 10px;
+	overflow: hidden;
+	width: 728px;
+	height: 95px;
+}
+
+.cutebattle_social { 
+	background: grey; 
+	padding: 5px;
+}
+
+.ratingtext { 
+	text-indent: -5000em;
+}
+
+.addthis_toolbox.addthis_default_style { 
+	float: left;
+}
+
+.ratingstars { 
+	float: right;
+}
+
+.cutebattle_readmore { 
+	float: right;
+}
+
+#cutebattle_results_container { 
+	width: 540px;
+	height: 50px;
+	margin-top: 10px;
+	text-align: center;
+	position: relative; 
+}
+
+.cutebattle_vote { 
+	position: absolute;
+	display: block;
+	width: 50px;
+	height: 50px;
+	background: yellow;
+}
+
+#cutebattle_results { 
+	top: 0;
+	left: 50%;
+	margin-left: -220px;
+	position: absolute; 
+	width: 440px;
+
+}
+
+#cutebattle_results_container h2 { 
+	padding: 0; 
+	margin: 0;
+}
+
+#cutebattle_results_table { 
+	position: relative;
+	top: 10px;
+}
+
+.cutebattle_rating { 
+	height: 30px;
+}
+
+.cutebattle_numbers { 
+	margin: 15px 10px 0 10px;
+	color: #fff;
+	z-index: 2;
+}
+
+.cutebattle_rating_left { 
+	background: green;
+}
+
+.cutebattle_rating_right { 
+	background: blue;
+}
+
+#cutebattle_countdown { 
+	float: left;
+	margin-bottom: 10px;
+	margin-left: 130px;
+	width: 50%;
+}
+
+#cutebattle_latest_votings { 
+	list-style: none; 
+	margin: 0;
+	padding: 0;
+}
+
+#cutebattle_latest_votings li { 
+	clear: both;
+	margin-bottom: 5px;
+}
+
+.cutebattle_thumb { 
+	background: red;
+	width: 220px;
+	height: 100px; 
+	overflow: hidden; 
+	position: relative;
+}
+
+#cutebattle_latest_votings p { 
+	position: relative;
+	width: 220px;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+
+.cutebattle_thumb_1, .cutebattle_thumb_2 { 
+	width: 110px;
+	overflow: hidden; 
+}
+
+.cutebattle_thumb_1 { 
+	position: absolute; 
+	left: 0;
+}
+
+.cutebattle_thumb_2 { 
+	position: absolute; 
+	text-align: right;
+	right: 0;
+}
+
+.clear { 
+	clear: both;
+}
